@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleWindowManager</string>
+    <string name="window_metrics">상</string>
+    <string name="layout_change_text">중</string>
+    <string name="configuration_changed">하</string>
+</resources>
